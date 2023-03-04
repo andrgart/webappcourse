@@ -1,0 +1,14 @@
+<a href="task1.php">1</a><br>
+<a href="task2.php">2</a><br>
+<a href="task3.php">3</a><br>
+<a href="task4.php">4</a><br>
+<a href="task5.php">5</a><br>
+<a href="task6.php">6</a><br>
+<a href="task7.php">7</a><br>
+<a href="task8.php">8</a><br>
+<a href="task9.php">9</a><br>
+<a href="task10.php">10</a><br>
+<a href="task11.php">11</a><br>
+<a href="task12.php">12</a><br>
+<a href="task13.php">13</a><br>
+<a href="task14.php">14</a><br>
